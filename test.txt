@@ -1,0 +1,15 @@
+this is a new txt
+cd	切換目錄
+pwd	顯示目前路徑
+mkdir	新增資料夾
+touch	建立檔案
+cp	複製檔案
+mv	移動檔案
+rm	刪除檔案
+-r	recursive	-> 可以刪除每個資料夾
+-f	force		-> 強制
+
+rm -rf * 全部刪除（重置） 千萬不要下這個指令
+rm -rf/ * 把根目錄底下資料清空 （硬碟清空）
+
+ctrl+X 存檔
