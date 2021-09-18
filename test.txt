@@ -17,3 +17,5 @@ ctrl+X 存檔
 git status 查看git狀態
  
 
+
+jkjkwji
