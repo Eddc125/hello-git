@@ -16,6 +16,6 @@ ctrl+X 存檔
 
 git status 查看git狀態
  
-git 真的好難
+git 真的真的好難
 
 
