@@ -23,7 +23,7 @@ Markdown 寫法：
 # 區塊程式碼
 使用方式 
 開頭使用3個 '‵‵‵' bash(js....)=
-    要寫入的code
+    code
 結尾使用3個 '‵‵‵'
 
 ```bash=
@@ -32,8 +32,7 @@ git commit -m "版本資訊"
 git push origin main 
 ```
 
-
---- 
+# 分隔線
 "---" = 分隔線
 --- 
 
