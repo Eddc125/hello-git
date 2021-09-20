@@ -22,13 +22,13 @@
 - 設定名稱： git config --global user.name "自訂使用名稱"
 - 設定郵件： git config --global user.email "使用github的email"
 
-#### 在要被控管的專案底下輸入指令
-#### 例如hello-git資料夾要被控管，即在hello-git資料夾中輸入
+> 在要被控管的專案底下輸入指令  
+> 例如hello-git資料夾要被控管，即在hello-git資料夾中輸入
 
 ### 建立 repo
-#### repository （數據庫） → repo
+> repository （數據庫） → repo
 1. 建立數據庫                   " git init "  
-> （在hello-git檔案中 輸入 ls -al 就會出現 ***.git*** 隱藏資料夾）
+> 在hello-git檔案中 輸入 ls -al 就會出現 ***.git*** 隱藏資料夾
 1. 檢查GIT狀態                  " git status "	
 1. 將檔案納入GIT管理            " git add 檔名 "
 1. 將檔案從站存區移出(尚未上傳) " git restore --staged 檔名 "
@@ -58,8 +58,8 @@ git branch -m master newname
 1. 檢視目前分支(*是所在分支)    " git branch "	
 1. 切換到"名稱"分支             " git switch 名稱 "	
 1. 將main及"名稱"的檔案合併     " git merge 名稱 "  
->（要先切換到 main 分支）  
->（如有發生衝突，要進nano手動修改，保留需要的部分並儲存，再git上去）
+> 要先切換到 main 分支  
+> 如有發生衝突，要進nano手動修改，保留需要的部分並儲存，再git上去
 
 ### 合併分支
 1. 先切換到主要合併的branch（newname為要合併的branch）
