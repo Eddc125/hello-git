@@ -21,10 +21,10 @@ Markdown 寫法：
 5. "任何數字 + ." = 縮排方式與符號清單相同
 
 # 區塊程式碼
-使用方式 
-開頭使用3個 '‵‵‵' bash(js....)=
-    code
-結尾使用3個 '‵‵‵'
+使用方式  
+開頭使用3個 '‵‵‵' bash(js....)=  
+    code  
+結尾使用3個 '‵‵‵'  
 
 ```bash=
 git add 檔名
@@ -43,10 +43,12 @@ git push origin main
 | 9/19 |  60  |  90  |  120 |  270 |
 
 # 圖片
-" 使用!+ [ ] + (圖片網址) "
+" 使用 ! + [ ] + (圖片網址) "  
 ![](https://pbs.twimg.com/profile_images/1389052581121466369/SDvbkP06.jpg)
 
-
+# 影片
+" 使用 [ 顯示文字 ] + ( 影片網址 ) "  
+[回家作業：腦科學驚人發現!](https://www.youtube.com/watch?v=DgbSc6Ys710&ab_channel=%E8%B6%85%E7%B4%9A%E6%AD%AASuperY)
 
 # 下方為上課練習作業
 --- 
