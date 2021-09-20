@@ -94,15 +94,18 @@ git pull origin 遠端分支名
 1. 下載 [nvm-setup.zip](https://github.com/coreybutler/nvm-windows/releases/download/1.1.8/nvm-setup.zip)
 2. 解壓縮檔案，並且以**系統管理員**身分執行安裝
 1. 安裝完成後，將GitBash 以**系統管理員**重新啟動
+### nvm指令
 1. 檢視nvm版本    " nvm -version "
 1. 檢視windows可以安裝的node.js版本 " nvm list available "
 > 分別為 CURRENT 、 LTS 、 EOL 版本 ， 建議安裝 LTS 版本  
 > LTS 為 積極維護及升級版本
-6. 安裝版本 " nvm install 版本號 "
+3. 安裝版本 " nvm install 版本號 "
 1. 切換版本 " nvm use 版本號 "
 1. 確認node目前使用版本 " node -v "
 1. 列出電腦安裝的所有node版本   " nvm ls "
 > 版本前加星號為目前使用中
+7. 建立連線(在GitHub上建立好一個repo，複製http) " git clone 網址 "
+8. 可以用 VSCode 編輯完.js檔後 用git push 上 GitHub 
 
 --- 
 
