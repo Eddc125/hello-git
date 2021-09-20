@@ -22,11 +22,11 @@
 - 設定名稱： git config --global user.name "自訂使用名稱"
 - 設定郵件： git config --global user.email "使用github的email"
 
-### 在要被控管的專案底下輸入指令
-### （例如hello-git資料夾要被控管，即在hello-git資料夾中輸入）
+#### 在要被控管的專案底下輸入指令
+#### 例如hello-git資料夾要被控管，即在hello-git資料夾中輸入
 
 ### 建立 repo
-#### - repository （數據庫） → repo
+#### repository （數據庫） → repo
 1. 建立數據庫                   " git init "  
 > （在hello-git檔案中 輸入 ls -al 就會出現 ***.git*** 隱藏資料夾）
 1. 檢查GIT狀態                  " git status "	
