@@ -106,7 +106,7 @@ git pull origin 遠端分支名
 > 版本前加星號為目前使用中
 7. 建立連線(在GitHub上建立好一個repo，複製http) " git clone 網址 "
 8. 可以用 VSCode 編輯完.js檔後 用git push 上 GitHub 
-
+9. 檢視.js檔案  " node 檔名 "
 --- 
 
 # Markdown 寫法：
