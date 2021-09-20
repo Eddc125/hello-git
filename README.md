@@ -1,4 +1,4 @@
-# 上課筆記
+# 2021/09/18 上課筆記
 
 ## LINUX 基本指令
 
@@ -29,7 +29,7 @@
 > repository （數據庫） → repo
 1. 建立數據庫                   " git init "  
 > 在hello-git檔案中 輸入 ls -al 就會出現 ***.git*** 隱藏資料夾
-1. 檢查GIT狀態                  " git status "	
+2. 檢查GIT狀態                  " git status "	
 1. 將檔案納入GIT管理            " git add 檔名 "
 1. 將檔案從站存區移出(尚未上傳) " git restore --staged 檔名 "
 1. 從GIT中刪除檔案              " git rm 檔名 "
@@ -86,8 +86,23 @@ git push -u origin main
 git pull origin 遠端分支名
 ```
 
+---
+# 2021/09/19 上課筆記
 
-
+## 安裝 nvm 及 node.js
+[nvm下載網址](https://github.com/coreybutler/nvm-windows/releases/tag/1.1.8)
+1. 下載 [nvm-setup.zip](https://github.com/coreybutler/nvm-windows/releases/download/1.1.8/nvm-setup.zip)
+2. 解壓縮檔案，並且以**系統管理員**身分執行安裝
+1. 安裝完成後，將GitBash 以**系統管理員**重新啟動
+1. 檢視nvm版本    " nvm -version "
+1. 檢視windows可以安裝的node.js版本 " nvm list available "
+> 分別為 CURRENT 、 LTS 、 EOL 版本 ， 建議安裝 LTS 版本  
+> LTS 為 積極維護及升級版本
+6. 安裝版本 " nvm install 版本號 "
+1. 切換版本 " nvm use 版本號 "
+1. 確認node目前使用版本 " node -v "
+1. 列出電腦安裝的所有node版本   " nvm ls "
+> 版本前加星號為目前使用中
 
 --- 
 
