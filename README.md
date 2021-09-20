@@ -41,7 +41,7 @@
 1. 將檔案還原到某版本           " git checkout 版本號 檔名 "
 1. 檢視內容是哪位成員編寫       " git blame 檔名 "
 
-### 建立分支與合併
+### 建立分支
 1. 將預設 master 分支 改為 main
 ```bash=
 nano ~/.gitconfig
@@ -58,10 +58,33 @@ git branch -m master newname
 1. 檢視目前分支(*是所在分支)    " git branch "	
 1. 切換到"名稱"分支             " git switch 名稱 "	
 1. 將main及"名稱"的檔案合併     " git merge 名稱 "  
->（要先切換到 main 分支）
+>（要先切換到 main 分支）  
 >（如有發生衝突，要進nano手動修改，保留需要的部分並儲存，再git上去）
 
+### 合併分支
+1. 先切換到主要合併的branch（newname為要合併的branch）
+```bash=
+git merge newname
+```
+2. 如有衝突，可以進nano檢視並修改留下需要的部分。
+
+
 ### 建立遠端連線（將檔案上傳到GitHub）
+1. 在GitHub上面建立一個新的 Repositories ( 例如 RnB )
+2. 將Clone 的 http 複製起來並輸入
+```bash=
+git remote add origin https://github.com/Eddc125/RnB.git
+```
+> remote 遠端 、 origin 遠端的名字(不建議更改)
+3. 將 commit 完的檔案上傳到GitHub
+```bash=
+git push -u origin main
+```
+> -u 首次push時才要加 、 main 要上傳的分支
+4. 要同步遠端的檔案到本地
+```bash=
+git pull origin 遠端分支名
+```
 
 
 
