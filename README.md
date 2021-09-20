@@ -43,7 +43,7 @@ git push origin main
 | 9/19 |  60  |  90  |  120 |  270 |
 
 # 圖片
-" ![](圖片網址) "
+" 使用!+ [ ] + (圖片網址) "
 ![](https://pbs.twimg.com/profile_images/1389052581121466369/SDvbkP06.jpg)
 
 
