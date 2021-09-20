@@ -26,9 +26,9 @@
 ### （例如hello-git資料夾要被控管，即在hello-git資料夾中輸入）
 
 ### 建立 repo
-- repository （數據庫） → repo
+#### - repository （數據庫） → repo
 1. 建立數據庫                   " git init "  
-在hello-git檔案中 輸入 ls -al 就會出現 **.git** 隱藏資料夾
+> （在hello-git檔案中 輸入 ls -al 就會出現 ***.git*** 隱藏資料夾）
 1. 檢查GIT狀態                  " git status "	
 1. 將檔案納入GIT管理            " git add 檔名 "
 1. 將檔案從站存區移出(尚未上傳) " git restore --staged 檔名 "
@@ -50,12 +50,16 @@ nano ~/.gitconfig
 [init]
         defaultBranch = main
 ```
-1. 建立分支                    "git branch 名稱 "		
+2. 將已經是 master 的 分支 改名(newname=新名稱)
+```bash=
+git branch -m master newname
+```
+2. 建立分支                    "git branch 名稱 "		
 1. 檢視目前分支(*是所在分支)    " git branch "	
-1. 轉換到"名稱"分支             " git switch 名稱 "	
+1. 切換到"名稱"分支             " git switch 名稱 "	
 1. 將main及"名稱"的檔案合併     " git merge 名稱 "  
-（要先切換到 main 分支）
-（如有發生衝突，要進nano手動修改，保留需要的部分並儲存，再git上去）
+>（要先切換到 main 分支）
+>（如有發生衝突，要進nano手動修改，保留需要的部分並儲存，再git上去）
 
 ### 建立遠端連線（將檔案上傳到GitHub）
 
