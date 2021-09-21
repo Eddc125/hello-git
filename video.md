@@ -1,11 +1,11 @@
-[腦科學驚人發現！史丹佛學者的六招學習方法！](https://www.youtube.com/watch?v=DgbSc6Ys710&ab_channel=%E8%B6%85%E7%B4%9A%E6%AD%AASuperY)
+# [腦科學驚人發現！史丹佛學者的六招學習方法！](https://www.youtube.com/watch?v=DgbSc6Ys710&ab_channel=%E8%B6%85%E7%B4%9A%E6%AD%AASuperY)
 
 > 探討書籍《大腦解鎖》 作者 Jo Boaler
 
 # 影片心得
 
-> 史丹佛心理學家**Carol Dweck**研究
-> 提出*固定型思維*及*成長型思維*
+> 史丹佛心理學家**Carol Dweck**研究  
+> 提出** *固定型思維*及*成長型思維* **
 
 ## 固定性思維
 
