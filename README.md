@@ -183,7 +183,9 @@ sum(6)
 ---
 # 2021/09/19 上課筆記
 
-### 練習平台： leetcode(刷題)
+### 練習平台： [leetcode](https://leetcode.com/interview/?gclid=Cj0KCQjw18WKBhCUARIsAFiW7JzMtktV0Ksqph0YLvR7ZqfGl7jl8Eho4bs_GZyOUsaPMVB2-_OrnM4aAhBaEALw_wcB)
+
+
 ---
 ## 下方為上課練習作業
 
