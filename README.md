@@ -180,7 +180,10 @@ sum(6)
 " 使用 [ 顯示文字 ] + ( 影片網址 ) "  
 [腦科學驚人發現!](https://www.youtube.com/watch?v=DgbSc6Ys710&ab_channel=%E8%B6%85%E7%B4%9A%E6%AD%AASuperY)
 
+---
+# 2021/09/19 上課筆記
 
+### 練習平台： leetcode(刷題)
 ---
 ## 下方為上課練習作業
 
