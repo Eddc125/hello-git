@@ -187,16 +187,16 @@ sum(6)
 
 ---
 # 2021/10/03 上課筆記
-## angular,react,vue --> SPA( Single Page Application ) 前後端 --> SEO 比較不友善
+angular,react,vue --> SPA( Single Page Application ) 前後端 --> SEO 比較不友善
 
-### SSR : Server-side render
+SSR : Server-side render
 
-## jQuery -> 操作 DOM 物件
-### $("#name")
+jQuery -> 操作 DOM 物件
+$("#name")
 
-## angular,react,vue 幫你渲染畫面 --> 這些畫面上的 dom 物件是由這些框架來控制 --> 控制「狀態」 state
+angular,react,vue 幫你渲染畫面 --> 這些畫面上的 dom 物件是由這些框架來控制 --> 控制「狀態」 state
 
-## ![ES6常用語法](https://gretema.github.io/javascript/20200504/221423942/)
+[ES6常用語法](https://gretema.github.io/javascript/20200504/221423942/)
 
 ---
 ## 下方為上課練習作業
