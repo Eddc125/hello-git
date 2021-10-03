@@ -185,6 +185,18 @@ sum(6)
 
 ### 練習平台： [leetcode](https://leetcode.com/interview/?gclid=Cj0KCQjw18WKBhCUARIsAFiW7JzMtktV0Ksqph0YLvR7ZqfGl7jl8Eho4bs_GZyOUsaPMVB2-_OrnM4aAhBaEALw_wcB)
 
+---
+# 2021/10/03 上課筆記
+## angular,react,vue --> SPA( Single Page Application ) 前後端 --> SEO 比較不友善
+
+### SSR : Server-side render
+
+## jQuery -> 操作 DOM 物件
+### $("#name")
+
+## angular,react,vue 幫你渲染畫面 --> 這些畫面上的 dom 物件是由這些框架來控制 --> 控制「狀態」 state
+
+## ![ES6常用語法](https://gretema.github.io/javascript/20200504/221423942/)
 
 ---
 ## 下方為上課練習作業
