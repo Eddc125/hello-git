@@ -1,4 +1,4 @@
-```bash(html)=
+```
 git st
 ```
 
