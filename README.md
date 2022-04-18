@@ -1,8 +1,3 @@
-|班級|代號|
-|-|-|
-|UIUX|MMMH|
-|F2E|MFEE|
-
 # 2021/09/18 上課筆記
 
 ## LINUX 基本指令
@@ -187,7 +182,7 @@ sum(6)
 
 ## 影片
 " 使用 [ 顯示文字 ] + ( 影片網址 ) "  
-[腦科學驚人發現!](https://www.youtube.com/watch?v=DgbSc6Ys710&ab_channel=%E8%B6%85%E7%B4%9A%E6%AD%AASuperY)
+[腦科學驚人發現!](https://reurl.cc/Kb6M8m)
 
 ---
 # 2021/09/19 上課筆記
